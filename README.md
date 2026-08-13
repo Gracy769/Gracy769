@@ -50,20 +50,16 @@ I'm a college student deeply interested in the intersections of modern frontend 
 <table border="0" align="center" width="100%">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Gracy769&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a" width="100%" alt="Gracy's Stats" />
+      <img src="./assets/stats.svg" width="100%" alt="Gracy's Stats" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gracy769&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a" width="100%" alt="Gracy's Languages" />
+      <img src="./assets/langs.svg" width="100%" alt="Gracy's Languages" />
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gracy769&theme=tokyonight&hide_border=true&background=0f172a" width="100%" alt="Gracy's Streak" />
-</p>
-
 ---
 
 <p align="center">
-  <img src="https://komarev.com/normal-badge/?username=Gracy769&color=38B2AC&style=flat-square&label=METRIC+VISITS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Gracy769&color=38B2AC&style=flat-square&label=METRIC_VISITS" alt="Profile Views" />
 </p>
