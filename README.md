@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=150&section=header&text=GRACY769&fontSize=36&fontColor=38B2AC&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=150&section=header&text=SHADOW6766_&fontSize=36&fontColor=38B2AC&animation=fadeIn" width="100%" />
 </p>
 
 <!-- Badges Row -->
@@ -50,10 +50,10 @@ I'm a college student deeply interested in the intersections of modern frontend 
 <table border="0" align="center" width="100%">
   <tr>
     <td align="center" width="50%">
-      <img src="./assets/stats.svg" width="100%" alt="Gracy's Stats" />
+      <img src="./assets/stats.svg" width="100%" alt="Shadow6766_'s Stats" />
     </td>
     <td align="center" width="50%">
-      <img src="./assets/langs.svg" width="100%" alt="Gracy's Languages" />
+      <img src="./assets/langs.svg" width="100%" alt="Shadow6766_'s Languages" />
     </td>
   </tr>
 </table>
@@ -61,5 +61,5 @@ I'm a college student deeply interested in the intersections of modern frontend 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gracy769&color=38B2AC&style=flat-square&label=METRIC_VISITS" alt="Profile Views" />
+  <b>Let's build something awesome together! 🚀</b>
 </p>
