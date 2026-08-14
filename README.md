@@ -70,7 +70,7 @@ progression, and AI-assisted 3D asset pipelines for bosses and enemies.
 |---|---|---|
 | [ByClickPremium](https://github.com/Gracy769/ByClickPremium) | — | One-click YouTube downloader — up to 4K, playlists, channels, audio conversion |
 | [UnlimiMail-Generator](https://github.com/Gracy769/UnlimiMail-Generator) | — | Disposable Gmail alias generator via plus-addressing/dot tricks |
-| [Zerodha](https://github.com/Gracy769/Zerodha) | TypeScript | Zerodha trading API integration/clone |
+| [Zerodha 2.0](https://github.com/Gracy769/Zerodha) | TypeScript | Zerodha trading clone |
 | [Water-sync](https://github.com/Gracy769/Water-sync) | TypeScript | Sync utility script |
 
 **Academic & core**
