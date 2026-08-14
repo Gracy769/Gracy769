@@ -70,7 +70,6 @@ progression, and AI-assisted 3D asset pipelines for bosses and enemies.
 |---|---|---|
 | [ByClickPremium](https://github.com/Gracy769/ByClickPremium) ⭐ 7 | — | One-click YouTube downloader — up to 4K, playlists, channels, audio conversion |
 | [UnlimiMail-Generator](https://github.com/Gracy769/UnlimiMail-Generator) | — | Disposable Gmail alias generator via plus-addressing/dot tricks |
-| [CRYPT](https://github.com/Gracy769/CRYPT) | Python | Cryptography and security testing scripts |
 | [remix-admin-template](https://github.com/Gracy769/remix-admin-template) | TypeScript | Admin dashboard template on Remix.js |
 | [Zerodha](https://github.com/Gracy769/Zerodha) | TypeScript | Zerodha trading API integration/clone |
 | [Water-sync](https://github.com/Gracy769/Water-sync) | TypeScript | Sync utility script |
