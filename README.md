@@ -68,18 +68,16 @@ progression, and AI-assisted 3D asset pipelines for bosses and enemies.
 **Tools & utilities**
 | Repo | Stack | What it is |
 |---|---|---|
-| [ByClickPremium](https://github.com/Gracy769/ByClickPremium) ⭐ 7 | — | One-click YouTube downloader — up to 4K, playlists, channels, audio conversion |
+| [ByClickPremium](https://github.com/Gracy769/ByClickPremium) | — | One-click YouTube downloader — up to 4K, playlists, channels, audio conversion |
 | [UnlimiMail-Generator](https://github.com/Gracy769/UnlimiMail-Generator) | — | Disposable Gmail alias generator via plus-addressing/dot tricks |
-| [remix-admin-template](https://github.com/Gracy769/remix-admin-template) | TypeScript | Admin dashboard template on Remix.js |
 | [Zerodha](https://github.com/Gracy769/Zerodha) | TypeScript | Zerodha trading API integration/clone |
 | [Water-sync](https://github.com/Gracy769/Water-sync) | TypeScript | Sync utility script |
 
 **Academic & core**
 | Repo | Stack | What it is |
 |---|---|---|
-| [Compiler](https://github.com/Gracy769/Compiler) ⭐ 1 | Python | Compiler design coursework |
+| [Compiler](https://github.com/Gracy769/Compiler) | Python | Compiler design coursework |
 | [Hostel-Daa](https://github.com/Gracy769/Hostel-Daa) | Python | Hostel allocation / DAA coursework |
-| [claw-code](https://github.com/Gracy769/claw-code) | Rust | Community-focused project |
 
 **Entertainment**
 | Repo | Stack | What it is |
