@@ -62,7 +62,6 @@ progression, and AI-assisted 3D asset pipelines for bosses and enemies.
 |---|---|---|
 | [AI-Mood-track](https://github.com/Gracy769/AI-Mood-track) | TypeScript | AI-driven mood tracking frontend |
 | [Chatbot](https://github.com/Gracy769/Chatbot) | HTML | Web-based chatbot client |
-| [Global-Char](https://github.com/Gracy769/Global-Char) | HTML | Global chat client |
 | [AI](https://github.com/Gracy769/AI) · [AI1](https://github.com/Gracy769/AI1) · [LLM](https://github.com/Gracy769/LLM) | Python / HTML | AI & LLM testing scripts, learning templates |
 
 **Tools & utilities**
