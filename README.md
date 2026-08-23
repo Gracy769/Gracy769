@@ -6,6 +6,8 @@
   <img alt="Gracy769's GitHub profile" src="dark_mode.svg" />
 </picture>
 
+</div>
+
 ### `Whoami`
 
 Engineering student (electronics + control systems) who spends the rest of the time
