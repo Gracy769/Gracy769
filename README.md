@@ -1,18 +1,10 @@
 <div align="center">
 
-```
-    ┌──────────────────────────────────────┐
-    │  ▓▓▓  RTX 4050 · 6GB VRAM  ▓▓▓        │
-    │  [||||||||||||||||||||    ] 92%       │
-    │  loading model... please wait         │
-    └──────────────────────────────────────┘
-```
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Fine-tuning+LLMs+on+6GB+of+spite;Engineering+student+by+day;Building+games+nobody+asked+for;19+repos%2C+full+spectrum" alt="Typing SVG" />
-
-</div>
-
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="Gracy769's GitHub profile" src="dark_mode.svg" />
+</picture>
 
 ### `Whoami`
 
