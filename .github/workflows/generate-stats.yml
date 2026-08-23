@@ -14,6 +14,29 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate static stats cards
+        run: |
+          mkdir -p assets
+          curl -o assets/stats.svg "https://github-stats-extended.vercel.app/api?username=Gracy769&show_icons=true&theme=tokyonight"
+          curl -o assets/langs.svg "https://github-stats-extended.vercel.app/api/top-langs/?username=Gracy769&layout=compact&theme=tokyonight"
+
+      - name: Update custom header SVGs dynamically
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python update_svgs.py
+          
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/stats.svg assets/langs.svg dark_mode.svg light_mode.svg
+          git commit -m "Update live stats in SVGs" || exit 0
+          git push
+
       - name: Generate snake
         uses: Platane/snk@v3
         with:
