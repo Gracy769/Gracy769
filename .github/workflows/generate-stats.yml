@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate Stats and SVGs
 
 on:
   schedule:
@@ -25,6 +25,7 @@ jobs:
 
       - name: Update custom header SVGs dynamically
         env:
+          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           python update_svgs.py
