@@ -8,7 +8,7 @@
 
 </div>
 
-### `Whoami`
+### `whoami`
 
 Engineering student (electronics + control systems) who spends the rest of the time
 fine-tuning language models on a laptop that was never meant for this, and building
