@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
@@ -12,12 +12,12 @@
 
 Engineering student (electronics + control systems) who spends the rest of the time
 fine-tuning language models on a laptop that was never meant for this, and building
-games in the gaps between. No vibe coding, no fluff — just things that either work
+games in the gaps between. No vibe coding, no fluff â€” just things that either work
 or get rebuilt until they do.
 
 ```
 > current_focus     : LLM fine-tuning, local inference optimization, indie game dev
-> constraint         : RTX 4050, 6GB VRAM — everything gets squeezed
+> constraint         : RTX 4050, 6GB VRAM â€” everything gets squeezed
 > publishing_as      : HuggingFace @ SamY36
 > status             : building, breaking, rebuilding
 ```
@@ -30,10 +30,10 @@ or get rebuilt until they do.
 Built a custom `llama.cpp` fork with CUDA support from source in WSL2 to get real
 GPU inference out of a 27B model quantized down to Q1_0 on 6GB of VRAM. Benchmarked
 it across coding, math, and logic. Hallucinations turned out to be fixable with
-live web search instead of blaming the weights — wrote a custom anti-hallucination
+live web search instead of blaming the weights â€” wrote a custom anti-hallucination
 system prompt to prove it.
 
-**Fine-tuned models — [HuggingFace @ SamY36](https://huggingface.co/SamY36)**
+**Fine-tuned models â€” [HuggingFace @ SamY36](https://huggingface.co/SamY36)**
 Multiple LoRA fine-tunes across coding, cybersecurity, and web dev, trained on
 Kaggle's free compute. Q8_0 GGUF exports so they're actually runnable, not just
 benchmark trophies.
@@ -51,32 +51,40 @@ progression, and AI-assisted 3D asset pipelines for bosses and enemies.
 
 ### Repos
 
-**AI, LLMs & chatbots**
+**AI & Machine Learning**
 | Repo | Stack | What it is |
 |---|---|---|
-| [AI-Mood-track](https://github.com/Gracy769/AI-Mood-track) | TypeScript | AI-driven mood tracking frontend |
-| [Chatbot](https://github.com/Gracy769/Chatbot) | HTML | Web-based chatbot client |
-| [AI](https://github.com/Gracy769/AI) · [AI1](https://github.com/Gracy769/AI1) · [LLM](https://github.com/Gracy769/LLM) | Python / HTML | AI & LLM testing scripts, learning templates |
+| [AI-App-Config-Pipeline](https://github.com/Gracy769/AI-App-Config-Pipeline) | Python | Multi-stage AI pipeline converting natural language to executable JSON configurations. |
+| [Spec-Compiler](https://github.com/Gracy769/Compiler) | Python | Compile Natural Language into Validated OpenAPI 3.1, PostgreSQL Schemas & UI Layouts. |
+| [AI-Mood-Tracker](https://github.com/Gracy769/AI-Mood-Tracker) | TypeScript | AI Studio app for mood tracking with full local deployment support. |
+| [AI-Experiments](https://github.com/Gracy769/AI-Experiments) | Python | AI and Machine Learning experimentation scripts in Python. |
+| [Water-Sync](https://github.com/Gracy769/Water-Sync) | TypeScript | AI Studio app for syncing and deployment. |
+| [AI-Web-Templates](https://github.com/Gracy769/AI-Web-Templates) | HTML | AI and LLM testing scripts and learning templates in HTML. |
 
-**Tools & utilities**
+**Hardware & Systems Engineering**
 | Repo | Stack | What it is |
 |---|---|---|
-| [ByClickPremium](https://github.com/Gracy769/ByClickPremium) | — | One-click YouTube downloader — up to 4K, playlists, channels, audio conversion |
-| [UnlimiMail-Generator](https://github.com/Gracy769/UnlimiMail-Generator) | — | Disposable Gmail alias generator via plus-addressing/dot tricks |
-| [Zerodha 2.0](https://github.com/Gracy769/Zerodha) | TypeScript | Zerodha trading clone |
-| [Water-sync](https://github.com/Gracy769/Water-sync) | TypeScript | Sync utility script |
+| [Regenerative-Braking-Module](https://github.com/Gracy769/Regenerative-Braking-Module) | Python | Eddy Current Deceleration System for Locomotives with a third braking mechanism. |
+| [PCB-Defect-Detection](https://github.com/Gracy769/PCB-Defect-Detection) | — | Low-Cost Embedded Inspection for Indian MSMEs using AI. |
 
-**Academic & core**
+**Web Applications & Tools**
 | Repo | Stack | What it is |
 |---|---|---|
-| [Compiler](https://github.com/Gracy769/Compiler) | Python | Compiler design coursework |
-| [Hostel-Daa](https://github.com/Gracy769/Hostel-Daa) | Python | Hostel allocation / DAA coursework |
+| [Remix-Admin-Template](https://github.com/Gracy769/Remix-Admin-Template) | TypeScript | Remix Supabase starter template with authentication and Tailwind CSS. |
+| [Zerodha-Clone](https://github.com/Gracy769/Zerodha-Clone) | TypeScript | A revamped version of Trading app Zerodha for easier use, more functions, and a more attractive UI. |
+| [Hostel-Allocation-System](https://github.com/Gracy769/Hostel-Allocation-System) | Python | Hostel allocation and Design and Analysis of Algorithms coursework. |
+| [Global-Chat](https://github.com/Gracy769/Global-Chat) | HTML | Web-based global chat client built with HTML. |
+| [Web-Chatbot](https://github.com/Gracy769/Web-Chatbot) | HTML | A simple web-based chatbot interface. |
+| [Cygnus-Web](https://github.com/Gracy769/Cygnus-Web) | HTML | HTML Web Project. |
+| [Cygnix-Web](https://github.com/Gracy769/Cygnix-Web) | HTML | HTML Web Interface project. |
+| [UnlimiMail](https://github.com/Gracy769/UnlimiMail) | — | Harness the power of Gmail's native features to generate an unlimited number of disposable email aliases. |
+| [ByClick-Downloader](https://github.com/Gracy769/ByClick-Downloader) | — | The ultimate YouTube downloader offering one-click downloads in up to 4K quality. |
 
-**Entertainment**
+**Others & Personal**
 | Repo | Stack | What it is |
 |---|---|---|
-| [AniNeko](https://github.com/Gracy769/AniNeko) | — | Anime watch-list / catalog tracker |
-| [Anime](https://github.com/Gracy769/Anime) · [Kawaii.anime](https://github.com/Gracy769/Kawaii.anime) | HTML | Anime review sites / landing pages |
+| [Anime-Fin](https://github.com/Gracy769/Anime-Fin) | — | Anime related project or catalog. |
+| [Leetcode-Progress](https://github.com/Gracy769/Leetcode-Progress) | — | Tracking progress and solutions for Leetcode problems. |
 
 ---
 
@@ -111,3 +119,5 @@ progression, and AI-assisted 3D asset pipelines for bosses and enemies.
 </picture>
 
 </div>
+
+
