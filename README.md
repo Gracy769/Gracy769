@@ -1,6 +1,6 @@
-# Hey, I'm Gracy 👋
+# Hello World 👋
 
-I'm an electronics and control systems student building developer tools, applied AI projects, and practical hardware systems. I also contribute fixes to open source projects I use.
+I'm an engineering student building developer tools, applied AI projects, and practical hardware systems. I also contribute fixes to open source projects I use.
 
 [Projects](#selected-projects) · [Open source](#open-source-contributions) · [Hugging Face](https://huggingface.co/SamY36)
 
