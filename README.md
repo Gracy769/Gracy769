@@ -1,7 +1,3 @@
-# Shouradeep Nag
-
-**EEE student at VIT Chennai (Class of 2029)** building AI-assisted developer tools and exploring computer vision and control systems.
-
 My main focus is turning a rough idea into software artifacts that can be checked and used: API specifications, database schemas, UI configurations, and codebase maps. I also work on electronics projects where simulation and practical constraints matter.
 
 [Projects](#selected-projects) · [Open source](#open-source-contributions) · [Hugging Face](https://huggingface.co/SamY36) · [LinkedIn](https://www.linkedin.com/in/shouradeep-nag-652980411/)
