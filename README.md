@@ -8,7 +8,7 @@ I'm an engineering student building developer tools, applied AI projects, and pr
 
 - **[Spec Compiler](https://github.com/Gracy769/Compiler)** — turns a natural language request into validated OpenAPI 3.1, PostgreSQL schema, and UI configuration outputs. `Python` · `FastAPI`
 
-- **[Code Compass](https://github.com/Gracy769/code-compass)** — an IBM Bob 2.0 hackathon prototype that maps a codebase and produces an interactive onboarding dashboard with architecture diagrams, module notes, and a knowledge check. `JavaScript` · `AI agents`
+- **[Code Compass](https://github.com/Gracy769/code_compass)** — a program that maps a codebase and produces an interactive onboarding dashboard with architecture diagrams, module notes, and a knowledge check. `JavaScript` · `AI agents`
 
 - **[AI App Config Pipeline](https://github.com/Gracy769/AI-App-Config-Pipeline)** — converts a product idea into structured database, API, UI, and authentication configuration through a staged pipeline. `Python`
 
