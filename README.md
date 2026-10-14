@@ -12,8 +12,6 @@ I'm an engineering student building developer tools, applied AI projects, and pr
 
 - **[AI App Config Pipeline](https://github.com/Gracy769/AI-App-Config-Pipeline)** — converts a product idea into structured database, API, UI, and authentication configuration through a staged pipeline. `Python`
 
-- **[Regenerative Braking Module](https://github.com/Gracy769/Regenerative-Braking-Module)** — explores an eddy current deceleration system for locomotives using the traction motors as a third braking mechanism. `Python` · `Control systems`
-
 - **[PCB Defect Detection](https://github.com/Gracy769/PCB-Defect-Detection)** — an embedded inspection concept for low cost PCB defect detection in small manufacturing settings. `Embedded systems` · `Computer vision`
 
 [Browse all public repositories →](https://github.com/Gracy769?tab=repositories)
