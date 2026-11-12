@@ -1,4 +1,4 @@
-# Hello World 👋
+# Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 I'm an engineering student building developer tools, applied AI projects, and practical hardware systems. I also contribute fixes to open source projects I use.
 
